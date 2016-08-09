@@ -1,0 +1,1 @@
+Do not save anything here. All states should be saved as folders at the country level. Nothing should be saved in this folder.
